@@ -8,10 +8,10 @@ public class p1 {
         Scanner input=new Scanner(System.in);
         int x=input.nextInt();
         System.out.println(answer(x));
-
     }
     public static String answer(int i){
-        return (i%2==0)? "Even":"Odd";
+
+        return (i%2==0)?  i+" is Even":i+" is Odd";
     }
 
 }
