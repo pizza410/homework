@@ -1,3 +1,5 @@
+package week6;
+
 public class p19 {
     String g1="Rushi";
     static String g2="Jankiben";

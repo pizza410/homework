@@ -1,3 +1,5 @@
+package week6;
+
 public class p13 {
     public static void main(String[] args) {
         double height=8.5;

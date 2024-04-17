@@ -1,3 +1,5 @@
+package week6;
+
 public class p17 {
     String city="Anand";
     static String country="India";

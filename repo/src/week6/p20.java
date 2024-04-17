@@ -1,3 +1,5 @@
+package week6;
+
 public class p20 {
     String s="Spain";
     static String v="United Kingdom";

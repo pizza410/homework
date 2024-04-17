@@ -1,3 +1,5 @@
+package week6;
+
 public class p3 {
     String s="kem cho Bhaveshbhai";
     static int i=410;

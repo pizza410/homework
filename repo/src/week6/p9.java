@@ -1,3 +1,5 @@
+package week6;
+
 public class p9 {
     public static void main(String[] args) {
     converter();

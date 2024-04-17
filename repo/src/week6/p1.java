@@ -1,3 +1,5 @@
+package week6;
+
 public class p1 {
     String s="abc";
     int i=97;

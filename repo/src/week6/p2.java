@@ -1,3 +1,5 @@
+package week6;
+
 public class p2 {
     static String s="bvm";
     static int i = 98;

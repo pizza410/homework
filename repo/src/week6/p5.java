@@ -1,3 +1,5 @@
+package week6;
+
 public class p5 {
     static double i1=12;
     static double i2=13;

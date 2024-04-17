@@ -1,3 +1,5 @@
+package week6;
+
 public class p18 {
     static String council="Stanmore";
     int hno=476;
